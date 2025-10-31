@@ -1,0 +1,16 @@
+# Minimal recommended requirements for running STR-Net code
+# NOTE: Pin or change torch/mmcv versions according to your CUDA/PyTorch setup.
+
+torch
+numpy
+matplotlib
+plotly
+timm
+mmcv
+einops
+tqdm
+torchvision
+scipy
+
+# Optional / helpful
+#opencv-python
